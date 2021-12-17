@@ -35,6 +35,7 @@
 ## 🔧 Technologies & Tools
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
+![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![Github](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![Eclipse](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 
