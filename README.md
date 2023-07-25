@@ -25,7 +25,7 @@
 
 ## &#10092;&#10093; Languages
 ![C](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![C++](https://img.shields.io/badge/Code-c%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
+![C++](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat&logo=C%2B%2B&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%23&logoColor=white&color=2bbc8a)
@@ -39,6 +39,8 @@
 ![VSCode](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
 ![Github](https://img.shields.io/badge/Tools-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a)
 ![Eclipse](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&logoColor=white&color=2bbc8a)
+![Postman](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=2bbc8a)
 
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
 ![SpringBoot](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
