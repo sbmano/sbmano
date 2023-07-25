@@ -8,7 +8,7 @@
 ![Visitors Github](https://visitor-badge.laobi.icu/badge?page_id=Sbmano.Sbmano)
 ![Follow Github](https://img.shields.io/github/followers/Sbmano.svg?style=social&label=Follow&maxAge=2592000)
 
-##### I am currently pursuing Bachelor of Engineering in Automobile Engineering at Anna University, Chennai.
+##### A Passionate developer having 7 months of professional experience in web development.
 
 <div align="center">
 <h3> 📫 Find me on </h3>
@@ -40,8 +40,11 @@
 ![Eclipse](https://img.shields.io/badge/Tools-Eclipse-informational?style=flat&logo=eclipse&logoColor=white&color=2bbc8a)
 
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=2bbc8a)
+![SpringBoot](https://img.shields.io/badge/Framework-SpringBoot-informational?style=flat&logo=SpringBoot&logoColor=white&color=2bbc8a)
+![Angular](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=Angular&logoColor=white&color=2bbc8a)
 
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
+![Postgres](https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=Postgres&logoColor=white&color=2bbc8a)
 
 
 <br/>
