@@ -28,7 +28,7 @@
 ![C++](https://img.shields.io/badge/Code-c%2B%2B-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
 ![SQL](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=mysql&logoColor=white&color=2bbc8a)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![C#](https://img.shields.io/badge/Code-C%2B-informational?style=flat&logo=C%2B&logoColor=white&color=2bbc8a)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=C%23&logoColor=white&color=2bbc8a)
 
 ![HTML](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![CSS](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
