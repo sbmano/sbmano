@@ -8,7 +8,7 @@
 ![Visitors Github](https://visitor-badge.laobi.icu/badge?page_id=Sbmano.Sbmano)
 ![Follow Github](https://img.shields.io/github/followers/Sbmano.svg?style=social&label=Follow&maxAge=2592000)
 
-##### A Passionate developer having 7 months of professional experience in web development.
+##### A Passionate software developer with over two years of professional experience in developing web applications using java and other modern frameworks.
 
 <div align="center">
 <h3> 📫 Find me on </h3>
